@@ -1,3 +1,6 @@
+//Beatriz Soares RA -10443916
+//Mariana Agostinho RA -10435657
+//Murilo Franciscon RA -10438787
 public class Node {
 
     Palavra elemento;  
